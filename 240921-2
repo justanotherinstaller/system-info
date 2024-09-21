@@ -1,0 +1,48 @@
+~ journalctl -xe
+░░ Defined-By: systemd
+░░ Support: http://www.ubuntu.com/support
+░░ 
+░░ A start job for unit UNIT has begun execution.
+░░ 
+░░ The job identifier is 802.
+Sep 21 14:52:09 s7vnthyme-MS-7C84 dbus-daemon[1499]: [session uid=1000 pid=1499>
+Sep 21 14:52:09 s7vnthyme-MS-7C84 systemd[1474]: Started gnome-terminal-server.>
+░░ Subject: A start job for unit UNIT has finished successfully
+░░ Defined-By: systemd
+░░ Support: http://www.ubuntu.com/support
+░░ 
+░░ A start job for unit UNIT has finished successfully.
+░░ 
+░░ The job identifier is 802.
+Sep 21 14:52:09 s7vnthyme-MS-7C84 systemd[1474]: Started vte-spawn-4918c722-995>
+░░ Subject: A start job for unit UNIT has finished successfully
+░░ Defined-By: systemd
+░░ Support: http://www.ubuntu.com/support
+░░ 
+░░ A start job for unit UNIT has finished successfully.
+░░ 
+░░ The job identifier is 826.
+lines 1509-1531/1531 (END)
+░░ Defined-By: systemd
+░░ Support: http://www.ubuntu.com/support
+░░ 
+░░ A start job for unit UNIT has begun execution.
+░░ 
+░░ The job identifier is 802.
+Sep 21 14:52:09 s7vnthyme-MS-7C84 dbus-daemon[1499]: [session uid=1000 pid=1499] Successfully activated service 'org.gnome.Terminal'
+Sep 21 14:52:09 s7vnthyme-MS-7C84 systemd[1474]: Started gnome-terminal-server.service - GNOME Terminal Server.
+░░ Subject: A start job for unit UNIT has finished successfully
+░░ Defined-By: systemd
+░░ Support: http://www.ubuntu.com/support
+░░ 
+░░ A start job for unit UNIT has finished successfully.
+░░ 
+░░ The job identifier is 802.
+Sep 21 14:52:09 s7vnthyme-MS-7C84 systemd[1474]: Started vte-spawn-4918c722-995a-4824-a672-044249a6fb4f.scope - VTE child process 100925 launched by gnome-terminal-server process 1009>
+░░ Subject: A start job for unit UNIT has finished successfully
+░░ Defined-By: systemd
+░░ Support: http://www.ubuntu.com/support
+░░ 
+░░ A start job for unit UNIT has finished successfully.
+░░ 
+░░ The job identifier is 826.
